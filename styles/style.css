@@ -63,6 +63,7 @@
   color: #1f1f1f;
   text-decoration: underline;
 }
+
 /* ниже мы привели пример двух селекторов, чтобы вы вспомнили запись элемента */
 .header__square-pic {
   position: absolute;
