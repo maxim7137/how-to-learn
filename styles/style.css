@@ -9,17 +9,16 @@
   font-family: "Helvetica Neue", Arial, sans-serif;
 }
 
-.page_height_header {
+.header {
   position: relative;
   height: 100vh;
   min-height: 600px;
   max-height: 756px;
   display: flex;
   align-items: center;
-  /* выше установили ограничения для секции */
 }
 
-.page_background_grey {
+.page__background-grey {
   background-color: #f2f2f2;
 }
 
@@ -185,7 +184,7 @@
   width: 648px;
 }
 
-.page_height_feynman {
+.feynman {
   position: relative;
   height: 890px;
   background-image: url(../images/feynman.png);
@@ -217,7 +216,7 @@
   text-decoration: underline;
 }
 
-.page_background_black {
+.page__background-black {
   background-color: #1f1f1f;
   color: #fff;
 }
