@@ -1,11 +1,5 @@
 .rotation {
   animation: rotation 20s linear infinite normal running;
-  /* animation-name: rotation;
-  animation-duration: 20s;
-  animation-timing-function: linear;
-  animation-iteration-count: infinite;
-  animation-direction: normal;
-  animation-play-state: running; */
 }
 
 @keyframes rotation {
