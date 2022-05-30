@@ -1,4 +1,6 @@
 .khan__quote-author {
   font-weight: 700;
   font-style: normal;
+  margin-block-start: 0;
+  margin-block-end: 0;
 }
