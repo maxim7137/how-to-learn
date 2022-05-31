@@ -2,6 +2,5 @@
   color: #fff;
   background-color: #1f1f1f;
   position: relative;
-  overflow: hidden;
+  overflow: hidden; /* Для того чтобы скрыть треугольник */
 }
-

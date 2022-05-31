@@ -1,4 +1,4 @@
-.khan__book-link {
+.khan__buy-link {
   padding-left: 48px;
   line-height: 42px;
   font-size: 30px;
@@ -7,6 +7,6 @@
   transition: opacity 0.2s;
 }
 
-.khan__book-link:hover {
+.khan__buy-link:hover {
   opacity: 0.6;
 }
